@@ -1,6 +1,10 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Ajmal",
+  "description": "A project to get introduced to npm and Node.js",
+  "keywords": [ "freecodecamp", "fcc", "learn-npm" ],
+  "license": "MIT",
+  "version": "1.0.0",
   "dependencies": {
     "express": "^4.14.0"
   },
