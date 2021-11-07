@@ -1,0 +1,18 @@
+{
+  "files": {
+    "package.json": [
+      {
+        "id": "a3852851-b99c-4fcc-b77d-67794a1d7126",
+        "line": 14,
+        "version": 10,
+        "index": 265
+      },
+      {
+        "id": "81dd7ee7-cfb6-48cf-a231-5bdbb0a0bb0c",
+        "line": 16,
+        "version": 10,
+        "index": 269
+      }
+    ]
+  }
+}
